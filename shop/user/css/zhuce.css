@@ -1,0 +1,181 @@
+*{
+	margin:0;
+	padding:0;
+}
+a{
+	text-decoration:none;
+	color:#333;
+	font-size:12px;
+}
+ul li{
+	list-style:none;
+}
+body{
+	background-color:#F9F9F9;
+}
+.reg_main{
+	width:850px;
+	height:500px;
+	margin-top:10px;
+	background-color:#FFFFFF;
+}
+.logo{
+	width:49px;
+	height:48px;
+	margin:0 auto;
+	display:block;
+	padding-bottom:40px;
+	
+}
+.reg_title{
+	display:block;
+	width:784px;
+	height:45px;
+	font-size:30px;
+	color:#333;
+	line-height:1.5;
+	font-family:arial,"Hiragino Sans GB", "Microsoft YaHei","微軟正黑體","儷黑 Pro", sans-serif;
+}
+.regbox{
+	width:332px;
+	padding:15px 0;
+	line-height:20px;
+}
+.form_zhuce,.form_yzm,.form_kuang{
+	width:332px;
+	height:35px;
+	line-height:35px;
+	vertical-align:middle;	
+	color:#555;
+	margin-bottom:10px;
+}
+.form_kuang{
+	padding-left:14px;
+	border:1px solid #ccc;
+}
+.form_kuang input{
+	border:none;
+	outline:none;
+	font-size:12px;
+	color:#333;
+}
+#diqu{
+	float:left;
+	width:275px;
+	height:38px;
+	text-align:left;
+	color:#333;
+	border-right:1px solid #ccc;
+}
+.icon{
+	display:block;
+	width:16px;
+	height:16px;
+	float:right;
+	background-image:url("../image/icon_user.png");
+	background-repeat:no-repeat;
+	margin:11px 12px 0 12px;
+}
+#phone{
+	float:left;
+	width:100%;
+	height:100%;
+}
+
+#yzm{
+	float:left;
+	width:170px;
+	height:100%;
+	padding-left:14px;
+	border:1px solid #ccc;
+	outline:none;
+	font-size:12px;
+	color:#333;
+}
+.yzm_pic{
+	float:left;
+	width:125px;
+	height:42px;
+	margin-left:7px;
+	background-color:#ff6700;
+}
+#zcbtn{
+	border:none;
+	outline:none;
+	font-size:14px;
+	text-align:center;
+	color:#333;
+	width:100%;
+	height:100%;
+	background-color:#ff6700;
+	color:#fff;
+}
+.xieyi{
+    margin-top: 10px;
+    color: #9d9d9d;
+	font-size:12px;
+}
+.xieyi a{
+	color:#333;
+	font-weight: bold;
+}
+.n-footer {
+	float:left;
+	width:1349px;
+	height:16px;
+    color: #9d9d9d;
+    text-align: center;
+    height: 80px;
+}
+.font{
+	width:1349px;
+	height:16px;
+	margin-top:10px;
+	margin-left:600px;
+}
+.font ul{
+	float:left;
+	margin-left:300px;
+	height:16px;
+	margin:0 auto;
+}
+.font ul li{
+	float:left;
+	text-align:center;
+}
+.font ul li a{
+	color:#333;
+}
+.nf-intro{
+	color:#9d9d9d;
+	margin-top:10px;
+	font-size:13px;
+}
+.beianlink{
+	color:#9d9d9d;
+}
+.other{
+	width:358px;
+	height:72px;
+	margin-top:15px;
+}
+.other-tit{
+	border-top:1px solid #e0e0e0;
+	width:358px;
+	height:29px;
+}
+.other-tit-text{
+	font-size:14px;
+	color:#b0b0b0;
+	margin:0 auto;
+	text-align:center;
+}
+.other-link{
+	width:358px;
+	height:43px;
+}
+
+
+
+
+
